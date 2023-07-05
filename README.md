@@ -1,8 +1,8 @@
 - 👋 Hi, my name is Jaslok Chauhan
-- 👀 I’m interested in learning RPA
-- 🌱 I’m currently learning VB .Net
+- 👀 I’m interested in learning different automation tools - Automation Anywhere, Blue Prism, Microsoft Power Automate
+- 🌱 I’m currently learning Microsoft Power Automate
 - 💞️ I’m looking to collaborate on RPA
-- 📫 How to reach me ...
+- 📫 You may reach me at jaslokunal@gmail.com
 
 <!---
 jaslok13/jaslok13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
